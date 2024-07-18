@@ -1,0 +1,43 @@
+body{
+    background-color: aliceblue;
+    
+}
+span+h1{
+    color: darkgreen;
+}
+h1+p{
+color: red;
+}
+p+h2{
+color: blue;
+}
+h2+p{
+    color: aqua;
+}
+p+h3{
+    color: gold;
+}
+h3+p{
+   color: brown;
+}
+p+h4{
+    color: purple;
+}
+h4+p{
+    color: indigo;
+}
+h5+p{
+    color: violet;
+}
+p+h5{
+    color: burlywood;
+}
+h6+p{
+    color: silver;
+}
+p+h6{
+    color: grey;
+}
+h7+p{
+    color: orange;
+}

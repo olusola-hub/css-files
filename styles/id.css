@@ -1,0 +1,16 @@
+#heading-1{
+    text-align: center;
+    color: aliceblue;
+    background-color: red;
+}
+
+#heading-2{
+    text-align: center;
+    color: rgb(171, 209, 110);
+    background-color: rgb(51, 76, 158);
+}
+#heading-3{
+    text-align: center;
+    color: rgb(236, 135, 21);
+    background-color: rgba(154, 119, 219, 0.397);
+}

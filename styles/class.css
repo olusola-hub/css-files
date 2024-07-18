@@ -1,0 +1,90 @@
+body{
+    background-color: lightblue;
+    color: white;
+}
+/* h1{
+font-size: 24px;
+}
+h2{
+    font-size: 30px;
+    color: blue;
+}
+img{
+    width: 300px;
+    height: 300px;
+}*/
+.first-heading{
+    text-align: center;
+    background-color: rgb(120, 115, 115);
+    color: white;
+}
+
+.second-heading{
+    text-align: center;
+    background-color: rgb(38, 192, 184);
+    color: white;
+}
+
+.third-heading{
+    text-align: center;
+    background-color: rgb(188, 37, 150);
+    color: white;
+}
+
+.fourth-heading{
+    text-align: center;
+    background-color: rgb(133, 59, 80);
+    color: white;
+}
+
+img{
+    width: 300px;
+    height: 25;
+}
+
+.first-para{
+    color: aliceblue;
+    background-color: cadetblue;
+    font-size: 18px;
+}
+
+.first-para{
+    color: aliceblue;
+    background-color: cadetblue;
+    font-size: 18px;
+}
+
+.second-para{
+    color: rgb(210, 14, 14);
+    background-color: rgb(171, 136, 0);
+    font-size: 18px;
+}
+
+
+.third-para{
+    color: rgb(0, 0, 0);
+    background-color: rgb(33, 254, 17);
+    font-size: 18px;
+}
+
+.fourth-para{
+    color: rgb(219, 171, 67);
+    background-color: rgb(120, 119, 176);
+    font-size: 18px;
+}
+.first-img{
+    height: 230px;
+    width: 300px;
+}
+.second-img{
+    height: 240px;
+    width: 310px;
+}
+.third-img{
+    height: 250px;
+
+width: 320px;}
+.fourth-img{
+    height: 260px;
+    width: 330px;
+}

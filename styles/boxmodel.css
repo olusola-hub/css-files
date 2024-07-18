@@ -1,0 +1,68 @@
+.h1{
+    border: 2px solid red;
+    padding: 50px;
+    margin: 50px;
+}
+.h2{
+    border: dotted  blue;
+    padding-top: 50px;
+    margin-top: 50px;
+}
+.h3{
+    border: dashed green;
+    padding-bottom: 50px;
+    margin-bottom: 50px;
+}
+.h4{
+    border: 2px double orange;
+    padding-left: 50px;
+    margin-left: 50px;
+}
+.h5{
+    border: 2px solid red;
+    padding-right: 50px;
+    margin-right: 50px;
+}
+.h6{
+    border: 2px solid greenyellow;
+    padding: 50px 20px 30px 10px;
+    margin: 50px 20px 30px 10px;
+}
+.h6{
+    border: 2px solid greenyellow;
+    background-color: red;
+    padding: 50px 20px ;
+    margin: 50px 20px  ;
+}
+
+.para1{
+border-top: 2px solid yellow;
+}
+.para2{
+  border-right: 2px solid beige;  
+}
+.para3{
+ border-left: 2px solid paleturquoise;   
+}
+.para4{
+    border-bottom: 2px solid gray;
+}
+img{
+    height: 400px;
+    width: 400px;
+}
+
+.image1{
+    border-radius: 0 50% ;
+}
+.image2{
+    border-radius:0 50% 0 0 ;
+  
+}.image3{
+    border-radius:0 50% 0 50%;
+
+}.image4{
+    border-radius:50% 50% 0 0 ;
+}.image5{
+    border-radius:50% ;
+}

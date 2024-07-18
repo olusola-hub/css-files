@@ -1,0 +1,16 @@
+
+body{
+    background-color:lightblue;
+color: white;
+max-width: 2003px;
+}
+img{
+    width: 300px;
+    height: 300px;
+}
+p{
+    font-size: 21px;
+}
+h1{
+    text-align: center;
+}
